@@ -1,4 +1,4 @@
-# Movie Recommenation System
+# FilmFlow: Intelligent Movie Recommender System
 
 <!-- Table of Contents -->
 <details>
